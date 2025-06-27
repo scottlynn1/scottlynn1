@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV0OTh3NHJkaTA2OXN5NXNubTc0bzc0NXZiM2VidzFzOTVnN2h3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlUvsXh3w7w2PUk/giphy.gif" width="200" height="200">
 </p>
-# Scott Lynn
+<p align="center" style="font-size: 16px">Scott Lynn</p>
 
 ## Web Developer at 100Devs
 From: 2025-present
@@ -20,7 +20,7 @@ Set up each installation with system monitoring hardware and provided onboarding
 ## Education
 ### University of South Florida           	        			               	             
 From: 2014-2017
-- Bachelor of Applied Science in Environmental Engineering with Mathematics Minor
+Bachelor of Applied Science in Environmental Engineering with Mathematics Minor
 - Study abroad project:
 Collected data on coral reefs and uploaded findings to a sql database in order to model and analyze data to determine the coral cover percentage by species. 
 Used local historical environmental data to derive insights as to causes of trending population decline and effectively communicated insights and plans of action for remediation

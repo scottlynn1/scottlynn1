@@ -6,7 +6,7 @@
 
 ## Web Developer at 100Devs
 From: 2025-present
-* Collaborated in a remote team to build a web application for Papa-Don’s Burgers and Wings to strengthen client connections and enable event holders and organizations to make bookings
+* Collaborated in a remote team to build web applications to strengthen clients connections to their customer bases
 * Implemented a full-stack calendar/scheduling application in node with automatic email workflows and administration panel to approve/deny/edit bookings
 ## Automation Specialist at Hawkins Service Co
 From: 2022-2025

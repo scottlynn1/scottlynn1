@@ -10,12 +10,12 @@ From: 2025-present
 * Implemented a full-stack calendar/scheduling application in node with automatic email workflows and administration panel to approve/deny/edit bookings
 ## Automation Specialist at Hawkins Service Co
 From: 2022-2025
-Independently and efficiently solved problems in the field diagnosing issues with residential and commercial automation system network and hardware issues
-Reached tailored solutions and improved system design by thinking critically about clients specific needs and preferences and effectively communicating technical information to layman clients
+* Independently and efficiently solved problems in the field diagnosing issues with residential and commercial automation system network and hardware issues
+* Reached tailored solutions and improved system design by thinking critically about clients specific needs and preferences and effectively communicating technical information to layman clients
 ## Photovoltaic Technician at Sun Tec Solar Energy Inc
 From: 2019-2022
-Collaborated in a team to install grid-tied photovoltaic power systems across the state of Florida while following all state and national building/electrical codes
-Set up each installation with system monitoring hardware and provided onboarding for system software
+* Collaborated in a team to install grid-tied photovoltaic power systems across the state of Florida while following all state and national building/electrical codes
+* Set up each installation with system monitoring hardware and provided onboarding for system software
 
 ## Education
 ### University of South Florida           	        			               	             
@@ -25,6 +25,7 @@ Bachelor of Applied Science in Environmental Engineering with Mathematics Minor
 Collected data on coral reefs and uploaded findings to a sql database in order to model and analyze data to determine the coral cover percentage by species. 
 Used local historical environmental data to derive insights as to causes of trending population decline and effectively communicated insights and plans of action for remediation
 
+## Tech Stack
 <p align='center' style='display: flex; flex-direction: row'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style='width: 80px; height: 80px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style='width: 80px; height: 80px'/>

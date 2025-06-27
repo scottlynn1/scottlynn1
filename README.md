@@ -41,3 +41,9 @@ Used local historical environmental data to derive insights as to causes of tren
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style='width: 80px; height: 80px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" style='width: 80px; height: 80px'/>
 </p>
+
+<p align="center">
+  <a href="https://scottlynn.live">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="portfolio" />
+  </a>
+</p>

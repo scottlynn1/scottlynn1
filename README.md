@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV0OTh3NHJkaTA2OXN5NXNubTc0bzc0NXZiM2VidzFzOTVnN2h3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlUvsXh3w7w2PUk/giphy.gif" width="200" height="200">
 </p>
-<p align="center" style="font-size: 32px">Scott Lynn</p>
+## <p align="center" style="font-size: 32px">Scott Lynn</p>
 
 ## Web Developer at 100Devs
 From: 2025-present

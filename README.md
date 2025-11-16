@@ -4,18 +4,18 @@
 </p>
 <h1 align="center">Scott Lynn</h1>
 
-## Web Developer at 100Devs | Remote, USA 2025-present
+## Web Developer at 100Devs | Remote, USA 2024-present
 * Collaborated in a remote team to build web applications to strengthen clients connections to their customer bases
 * Implemented a full-stack calendar/scheduling application in node with automatic email workflows and administration panel to approve/deny/edit bookings
   
-## Software Developer | TechX Mentorship, Remote, USA	06/2025 – 09/2025  
+## Software Developer | TechX Mentorship, Remote, USA	03/2025 – 09/2025  
 * Architected and implemented a high-throughput scraping engine in Node.js.
 * Provisioned and managed a Next.js full-stack application on AWS EC2 (auto-scaling groups, load balancers), achieving 99.9% uptime.
 * Integrated Redis caching and a global CDN to slash API response times and offload origin servers.
 * Tokenized, embedded, and indexed large-scale datasets into an OpenSearch k-NN vector store, enabling sub-second context retrieval via MCP.
 * Led backlog refinement, sprint planning, and the delivery of polished bi-weekly feature demos within a 12 member Agile pod, enhancing team efficiency and ensuring clear stakeholder alignment.
 
-## Automation Specialist | Hawkins Service Co, Tampa, FL 2022-2025
+## Automation Specialist | Hawkins Service Co, Tampa, FL 2022-2024
 * Independently and efficiently solved problems in the field diagnosing issues with residential and commercial automation system network and hardware issues
 * Reached tailored solutions and improved system design by thinking critically about clients specific needs and preferences and effectively communicating technical information to layman clients
   
